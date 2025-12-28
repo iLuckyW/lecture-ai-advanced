@@ -1,6 +1,33 @@
 # Lecture: AI I - Advanced
 
- Course content for the elective Artificial Intelligence II, focusing on advanced methods and hands-on AI applications.
+Course content for the elective Artificial Intelligence II, focusing on advanced methods and hands-on AI applications.
+
+## Chapter
+
+### PyTorch & Deep Learning Basics
+
+
+
+### Training Deep Networks
+
+
+
+### Advanced Techniques
+
+
+
+### Excursus
+
+#### Computer Vision (excursus)
+#### Natural Language Processing (excursus)
+#### Time Series Analysis (excursus)
+
+### Assessment
+
+Apply your knowledge in practical assessments to demonstrate your skills in machine learning, optimization, and evaluation.
+
+1. [Assessment 1](./chapter/05_assessment/01_assessment/README.md):
+2. [Assessment 2](./chapter/05_assessment/02_assessment/README.md):
 
 ## Getting Started
 
@@ -53,3 +80,5 @@ Commit Message Format
 - `infra`: infrastructure ch
 
 ## Documentation
+
+* [Contributing](./.github/contributing.md): A guide on how to contribute to this project, including commit conventions and best practices.
