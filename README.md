@@ -4,11 +4,15 @@ Course content for the elective Artificial Intelligence II, focusing on advanced
 
 ## Chapter
 
+### Prerequisites
+
+Check the required knowledge and [set up your programming environment](./chapter/00_prerequisites/README.md) to be ready for this module.
+
 ### PyTorch & Deep Learning Basics
 
 
 
-### Training Deep Networks
+### Training and Optimising Deep Networks
 
 
 
