@@ -12,7 +12,7 @@ Check the required knowledge and [set up your programming environment](./chapter
 
 Learn the fundamentals of deep learning and how to implement neural networks using PyTorch.
 
-1. [Neuronal Network Basics](./chapter/01_basics/01_neuron.ipynb)
+1. [Neuronal Network Basics](./chapter/01_basics/01_mlp.ipynb)
 
 ### Training and Optimising Deep Networks
 
