@@ -17,7 +17,11 @@ Learn the fundamentals of deep learning and how to implement neural networks usi
 
 ### Training and Optimising Deep Networks
 
+Learn techniques to effectively train and optimize deep learning models.
 
+1. [Regularization](./chapter/02_training/01_regularization.ipynb)
+2. [Hyperparameter Tuning](./chapter/02_training/02_optimization.ipynb)
+3. [Ensemble Learning](./chapter/02_training/03_ensemble.ipynb)
 
 ### Advanced Techniques
 
@@ -26,8 +30,20 @@ Learn the fundamentals of deep learning and how to implement neural networks usi
 ### Excursus
 
 #### Computer Vision (excursus)
+
+Have a look at some popular architectures and techniques used in computer vision tasks.
+
+1. [Convolutional Neural Networks](./chapter/04_excursus/01_cv/01_cnn.ipynb)
+2. [Residual Networks](./chapter/04_excursus/01_cv/02_resnet.ipynb)
+
 #### Natural Language Processing (excursus)
-#### Time Series Analysis (excursus)
+
+Explore transformer architectures and their applications in natural language processing.
+
+1. [Transformer: GPT2 Architecture](./chapter/04_excursus/02_nlp/01_gpt2.ipynb)
+2. [Sentiment Analysis with Transformers](./chapter/04_excursus/02_nlp/02_sentiment.ipynb)
+3. [Named Entity Recognition](./chapter/04_excursus/02_nlp/03_ner.ipynb)
+4. [AI Agent](./chapter/04_excursus/02_nlp/04_agent.ipynb)
 
 ### Assessment
 
