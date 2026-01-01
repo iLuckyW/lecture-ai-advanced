@@ -161,3 +161,4 @@ cython_debug/
 .vscode/
 **/solution.ipynb
 CLAUDE.md
+local.env
