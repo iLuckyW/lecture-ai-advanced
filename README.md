@@ -25,8 +25,6 @@ Learn techniques to effectively train and optimize deep learning models.
 
 ### Advanced Techniques
 
-
-
 ### Excursus
 
 #### Computer Vision (excursus)
@@ -40,7 +38,7 @@ Have a look at some popular architectures and techniques used in computer vision
 
 Explore transformer architectures and their applications in natural language processing.
 
-1. [Transformer: GPT2 Architecture](./chapter/04_excursus/02_nlp/01_gpt2.ipynb)
+1. [Transformer with GPT2](./chapter/04_excursus/02_nlp/01_gpt2.ipynb)
 2. [Sentiment Analysis with Transformers](./chapter/04_excursus/02_nlp/02_sentiment.ipynb)
 3. [Named Entity Recognition](./chapter/04_excursus/02_nlp/03_ner.ipynb)
 4. [AI Agent](./chapter/04_excursus/02_nlp/04_agent.ipynb)
