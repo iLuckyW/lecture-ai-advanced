@@ -6,6 +6,10 @@ __pycache__/
 # tensor generated data
 **/data/**
 
+!**/data/hyperparameter_tuning
+!**/data/hyperparameter_tuning/best_model.pt
+!**/data/hyperparameter_tuning/optuna_depression.db
+
 # C extensions
 *.so
 
