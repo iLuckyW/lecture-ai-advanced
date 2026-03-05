@@ -6,8 +6,11 @@ __pycache__/
 # tensor generated data
 **/data/**
 
-!**/data/hyperparameter_tuning
-!**/data/hyperparameter_tuning/best_model.pt
+# Ordner Struktur Nicht ignorieren
+!**/data/hyperparameter_tuning/
+!**/data/hyperparameter_tuning/top_models/
+# konkrete Dateien von ignore ausnehmen
+!**/data/hyperparameter_tuning/top_models/*.pt
 !**/data/hyperparameter_tuning/optuna_depression.db
 
 # C extensions
